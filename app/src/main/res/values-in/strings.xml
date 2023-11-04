@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">StoryApp</string>
+    <string name="lets_sign_in">Mulailah dengan Masuk Terlebih Dahulu Dengan Mengisi Email dan Password</string>
+    <string name="welcome_story">Selamat Datang di Bangkit Story</string>
+    <string name="email">Email</string>
+    <string name="required">Harus diisi dulu</string>
+    <string name="password">Kata Sandi</string>
+    <string name="login">Masuk</string>
+    <string name="sign_up_btn_page">Daftar</string>
+    <string name="username">Nama</string>
+    <string name="title_page">Mari buat akun terlebih dahulu dengan melengkapi data berikut</string>
+    <string name="signup_btn_acc">Daftar</string>
+    <string name="welcome_text">Selamat datang di Aplikasi Cerita Bangkit Cohort!</string>
+    <string name="email_invalid">Alamat Email Tidak Valid</string>
+    <string name="camera">Kamera</string>
+    <string name="pass_invalid">Minimal 8 karakter kata sandi</string>
+    <string name="empty_file_image">Silakan masukkan file gambar terlebih dahulu.</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah</string>
+    <string name="logout">Keluar</string>
+    <string name="description">Deskripsi</string>
+    <string name="date">Tanggal</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="dont_have_account_yet">Belum memiliki akun?</string>
+    <string name="share_loc">Share Location</string>
+</resources>

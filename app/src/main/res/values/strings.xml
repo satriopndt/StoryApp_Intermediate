@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="lets_sign_in">Start by Signing In First by Providing Your Email and Password</string>
+    <string name="welcome_story">Welcome to Bangkit Story</string>
+    <string name="email">Email</string>
+    <string name="required">Required</string>
+    <string name="password">Password</string>
+    <string name="login">Sign In</string>
+    <string name="sign_up_btn_page">Sign Up</string>
+    <string name="username">Username</string>
+    <string name="title_page">Let\'s create an account first by completing the following data</string>
+    <string name="signup_btn_acc">Sign Up</string>
+    <string name="welcome_text">Welcome to the Story App Bangkit Cohort !</string>
+    <string name="email_invalid">Invalid Email Address</string>
+    <string name="camera">Camera</string>
+    <string name="pass_invalid">Minimum 8 Character Password</string>
+    <string name="empty_file_image">Please insert the image file first</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="logout">Logout</string>
+    <string name="description">Description</string>
+    <string name="date">Date</string>
+    <string name="title_activity_maps" translatable="false">Maps</string>
+    <string name="dont_have_account_yet">Don\'t have an account yet?</string>
+    <string name="share_loc">Share Location</string>
+
+</resources>

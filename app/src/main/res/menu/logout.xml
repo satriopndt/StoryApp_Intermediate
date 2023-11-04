@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/logout_page"
+        android:title="@string/logout"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+
+    <item
+        android:icon="@drawable/ic_map"
+        android:id="@+id/map_page"
+        android:title="Maps"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:icon="@drawable/ic_settings"
+        android:id="@+id/setting_Page"
+        android:title="Setting"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom"/>
+
+
+</menu>
