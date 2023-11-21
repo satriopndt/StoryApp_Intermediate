@@ -6,7 +6,7 @@ Welcome to TheStory repository! 🌟 This project is the culmination of my journ
 
 ## Achievements 🏆
 
-- **First Submission:** ⭐⭐⭐⭐⭐
+- **First Submission:** ⭐⭐⭐⭐
 - **Final Submission:** ⭐⭐⭐⭐
 
 ## Purpose 🎯
